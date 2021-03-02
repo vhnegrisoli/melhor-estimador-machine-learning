@@ -18,3 +18,4 @@ Para executar o programa, basta ter apenas o Python 3 instalado, e rodar o coman
 
 Demonstração de exemplo em que o algoritmo define o K-Means como melhor algoritmo para a situação apresentada:
 
+![Exemplo K-Means](https://github.com/vhnegrisoli/melhor-estimador-machine-learning/blob/main/Exemplo%20K-Means.png)
