@@ -1,4 +1,4 @@
-# Melhor Estimador Machine Learning
+# Melhor Estimador para Algoritmos de Machine Learning
 
 Este projeto apenas traduz o diagrama da biblioteca Scikit-Learn para ajudar a escolher o melhor para um algoritmo de Machine Learning.
 
